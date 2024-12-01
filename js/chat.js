@@ -10,7 +10,7 @@ import {
 
 // Firebaseプロジェクトの設定情報
 const firebaseConfig = {
-
+  apiKey: "AIzaSyA_vMbR6ZcgGDEphgONLv_vNMKVbelzdUo",
   authDomain: "chatapp03-49e65.firebaseapp.com",
   projectId: "chatapp03-49e65",
   storageBucket: "chatapp03-49e65.firebasestorage.app",
